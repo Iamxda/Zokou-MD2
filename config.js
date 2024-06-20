@@ -23,14 +23,14 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254102074064']
-global.ownMain = '254102074064'
-global.NamaOwner = 'thezetsuboxygen' //gausah diganti 
+global.owner = ['2348022159244']
+global.ownMain = '2348022159244'
+global.NamaOwner = 'Otto Octavius' //gausah diganti 
 global.sessionName = 'session'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = 'ZxV' //ganti aj klo mau
-global.author = 'thezetsuboxygen' //ganti aj klo mau
-global.packname = 'ZxV' //ganti aj klo mau
+global.namabot = 'Spider web v1.' //ganti aj klo mau
+global.author = 'Devil md' //ganti aj klo mau
+global.packname = 'spider web' //ganti aj klo mau
 global.url = 'https://www.instagram.com/ryo.r0yko?igsh=MXBtY3hycTIyb3pqZQ==' //gausah diganti
 
 //===========================//
@@ -46,9 +46,9 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
  
 //===========================//
 
-global.country = `62`
+global.country = `234`
 global.system = {
-gmail: `zxvclientsupp@gmail.com`,
+gmail: `xdacity.co@gmail.com`,
 }
 
 //===========================//
